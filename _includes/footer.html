@@ -40,7 +40,14 @@
         {% endif %}
       {% endif%}
       </p>
-      {% include search.html %}
+      
+      <!-- HTML elements for search -->
+<input type="text" id="search-input" placeholder="Search blog posts..">
+<ul id="results-container"></ul>
+
+<!-- script pointing to jekyll-search.js -->
+<script src="{{ site.baseurl }}/search-script.js"></script>
+
 
       </div>
     </div>
