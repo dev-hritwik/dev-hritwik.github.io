@@ -7,7 +7,7 @@ subtitle: Why you'd want to go on a date with me
 My name is Hritwik Singhai. I have the following qualities:
 
 - I rock a solid mustache and a beard
-- I religiously follow "Loyalty is a two way street: if you're giving it to me, you're getting it from me."
+- I religiously follow "Loyalty is a two way street: if I'm asking it from you, then you're getting it from me."
 
 What else do you need?
 
