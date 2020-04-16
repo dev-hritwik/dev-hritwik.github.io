@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hierarchy: Oh the tragedy
-subtitle: An opinion on why hierarchies are problematic.  
+subtitle: An opinion on why hierarchies are problematic. 
 ---
 
 I’ll being with a definition - 
