@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Merit does not exist
-subtitle: An argument on why the idea of 'merit' in our society is based on flimsy foundations.  
+title: The tragedy of hierarchy.
+subtitle: An opinion on why we need to rethink our conception of hierarchy.  
 ---
 
 I’ll being with a definition - 
