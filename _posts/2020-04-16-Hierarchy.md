@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The tragedy of hierarchy.
+title: The tragedy of hierarchy
 subtitle: An opinion on why we need to rethink our conception of hierarchy.  
 ---
 
